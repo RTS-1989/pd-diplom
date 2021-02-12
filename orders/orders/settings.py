@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     # Third packages
-    'djangorestframework',
+    'rest_framework',
     'django_rest_passwordreset',
 
     # apps
